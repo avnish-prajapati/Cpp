@@ -5,6 +5,7 @@ using namespace std;
 class Convert {
 public:
     int seconds;
+
     int hh, mm, ss;
 
     void setData(int s) {
